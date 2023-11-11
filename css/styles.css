@@ -58,9 +58,6 @@ body {
 /* main */
 .main-section {
   background: #2e2f42;
-  width: 1440px;
-  height: 600px;
-  flex-shrink: 0;
 }
 .main-title {
   color: #fff;
@@ -157,9 +154,6 @@ body {
 /* footer */
 .footer-section {
   background: #2e2f42;
-  width: 1440px;
-  height: 312px;
-  flex-shrink: 0;
 }
 .footer-text {
   color: #f4f4fd;
